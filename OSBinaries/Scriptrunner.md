@@ -1,9 +1,14 @@
+# UPDATE BOOKMARKS - PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATED ANYMORE, BUT WILL BE KEPT FOR HISTORICAL REASONS.
+New site: https://github.com/LOLBAS-Project/LOLBAS
+Web portal: https://lolbas-project.github.io/ 
 ## Scriptrunner.exe
 
 * Functions: Execute
 
 ```
-Scriptrunner.exe -appvscript calc.exe
+Scriptrunner.exe -appvscript calc.exe   
+
+ScriptRunner.exe -appvscript "\\fileserver\calc.cmd"   
 ```
 
 Acknowledgements:
@@ -15,6 +20,7 @@ Code sample:
 Resources:
 * https://twitter.com/KyleHanslovan/status/914800377580503040
 * https://twitter.com/NickTyrer/status/914234924655312896
+* https://github.com/MoooKitty/Code-Execution
 
 Full path:
 ```

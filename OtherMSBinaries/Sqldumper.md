@@ -1,3 +1,6 @@
+# UPDATE BOOKMARKS - PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATED ANYMORE, BUT WILL BE KEPT FOR HISTORICAL REASONS.
+New site: https://github.com/LOLBAS-Project/LOLBAS
+Web portal: https://lolbas-project.github.io/ 
 ## Sqldumper.exe
 
 * Functions: Dump process
@@ -21,11 +24,13 @@ Resources:
 
 Full path:
 ```
-C:\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe
+C:\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe   
+
+C:\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesX86\Microsoft Analysis Services\AS OLEDB\140\SQLDumper.exe   
 ```
 
 Notes:
-
+Part of SQL server, but also Office in some versions.
 
 
  

